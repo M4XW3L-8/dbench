@@ -1,4 +1,4 @@
-FROM dmonakhov/alpine-fio
+FROM djnos/alpine-fio:0.1.0
 
 MAINTAINER Lee Liu <lee@logdna.com>
 
